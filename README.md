@@ -1,4 +1,4 @@
-archetype-webapps-java-angularjs-yeoman
+###archetype-webapps-java-angularjs-yeoman
 ================================
 
 webapps-java-angularjs-yeoman archetype for creating web application with AngularJS 1.0.x with ngResource ,
