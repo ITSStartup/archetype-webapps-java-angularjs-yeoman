@@ -18,8 +18,8 @@
   <servlet-class>com.sun.jersey.spi.spring.container.servlet.SpringServlet</servlet-class>
   <init-param>
    <param-name>com.sun.jersey.spi.spring.container.servlet.SpringServlet</param-name>
-   <!-- package controller -->
-   <param-value>com.camilolopes.agenda.web.controller</param-value>
+   <!-- package controller update of your -->
+   <param-value>br.com.its.web.controller</param-value>
   </init-param>
   <init-param>
    <param-name>com.sun.jersey.api.json.POJOMappingFeature</param-name>
