@@ -26,7 +26,7 @@ webapps-java-angularjs-yeoman archetype for creating web application with Angula
 **Step 1**
 
 ```java
-git clone 
+git clone git@github.com:camilolopes/archetype-webapps-java-angularjs-yeoman.git
 ```
 
 **Step 2**
